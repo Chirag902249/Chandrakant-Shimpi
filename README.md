@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandrakant Shimpi</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt ="Data" width="400" src="[https://legalmarketing.good2bsocial.com/hs-fs/hubfs/smaart-1-blue.gif?width=800&height=528&name=smaart-1-blue.gif](https://legalmarketing.good2bsocial.com/hs-fs/hubfs/smaart-1-blue.gif?width=800&height=528&name=smaart-1-blue.gif)"
+<img align="right" alt ="Data" width="400" src="https://legalmarketing.good2bsocial.com/hs-fs/hubfs/smaart-1-blue.gif?width=800&height=528&name=smaart-1-blue.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirag902249&label=Profile%20views&color=0e75b6&style=flat" alt="chirag902249" /> </p>
 
